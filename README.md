@@ -16,6 +16,7 @@
 
 ### Introduction
 
+Le nom **LYSA** est l'acronyme de **Link Your Sensors Anywhere**.
 
 
 ### Technologies utilisées
