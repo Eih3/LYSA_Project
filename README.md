@@ -18,7 +18,7 @@ Le nom **LYSA** est l'acronyme de **Link Your Sensors Anywhere**. C'est en fait 
 - Raspberry Pi
 - Python
 - SQLAlchemy ORM
-- FLASK
+- FLASK Web Framework
 - GSM
 
 Cette solution est installée sur un *Raspberry Pi 3*. L'utilisation d'un système d'exploitation *Linux* permet de garantir rapidité et sécurité, ce qui n'est pas négligeable. En effet, **LYSA** fonctionne à l'aide de scripts *Python* et d'un modem *GSM*, la rapidité d'execution et de traitement est donc primordiale.

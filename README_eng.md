@@ -6,7 +6,7 @@
 
 **LYSA** is a **WEB** platform for the Internet of Things (**IOT**). The purpose of this system is to provide a friendly and intuitive interface for item management. These are actually sensors, actuators or any type of connected objects that requires monitoring. **LYSA** use **GSM** technology to ensure global access to your objects. Do not waste your time searching for complicated solutions for connected objects - **LYSA** is made for you !
 
-The name **LYSA** stands for **Your Link Sensors Anywhere**. This is actually a strong solution of this point, the possibility of having access to your items anywhere in the world. The only requirement is that your object must be connected to **GSM** network.
+The name **LYSA** stands for **Link Your Sensors Anywhere**. This is actually a strong solution of this point, the possibility of having access to your items anywhere in the world. The only requirement is that your object must be connected to **GSM** network.
 
 > Simple and intuitive platform.  
 > Secure and fast solutions.  
@@ -18,7 +18,7 @@ The name **LYSA** stands for **Your Link Sensors Anywhere**. This is actually a 
 - Raspberry Pi
 - Python
 - SQLAlchemy ORM
-- FLASK
+- FLASK Web Framework
 - GSM
 
 This solution is installed on a *Raspberry Pi 3*. Using a *Linux* operating system ensures speed and security, which is not negligible. Indeed, **LYSA** works with *Python* scripts and *GSM* modem, the execution and processing speed is paramount.
