@@ -21,6 +21,8 @@ The name **LYSA** stands for **Link Your Sensors Anywhere**. This is actually a 
 - FLASK Web Framework
 - GSM
 
+<img src="https://github.com/Eih3/LYSA_Solution/blob/master/img/technos.png" width="900" />
+
 This solution is installed on a *Raspberry Pi 3*. Using a *Linux* operating system ensures speed and security, which is not negligible. Indeed, **LYSA** works with *Python* scripts and *GSM* modem, the execution and processing speed is paramount.
 ***
 <p align="center">More on the <a href="https://github.com/Eih3/LYSA_Solution/wiki">Wiki</a></p>
