@@ -7,18 +7,15 @@
 > **LYSA** est entièrement *Open Source*.               
 > Me contacter : eih3.prog@outlook.fr
 
-
 ## SOMMAIRE
 
 - [Introduction](#introduction)
 - [Des solutions existantes](#des-solutions-existantes)
 - [Technologies utilisées](#technologies-utilisées)
-- [Par où commencer ?](#par_ou_commencer?)
-
 
 ### Introduction
 
-Le nom **LYSA** est l'acronyme de **Link Your Sensors Anywhere**. C'est en fait un des points fort de cette solution, la possibilité d'avoir un accès à vos objets, où qu'ils soient dans le monde. La seule condition à respecter est que votre objet doit être connecté au réseau **GSM**.
+Le nom **LYSA** est l'acronyme de **Link Your Sensors Anywhere**. C'est en fait un des points fort de cette solution, la possibilité d'avoir un accès à vos objets, où qu'ils soient dans le monde. La seule condition à respecter est que votre objet doit être connecté au réseau **GSM**. 
 
 ### Des solutions existantes
 
@@ -29,9 +26,5 @@ Le nom **LYSA** est l'acronyme de **Link Your Sensors Anywhere**. C'est en fait 
 - SQLAlchemy
 - FLASK
 - GSM
-
-### Par où commencer ?
-
-
 
 <> with ❤ by **Eih3**
