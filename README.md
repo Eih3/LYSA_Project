@@ -21,8 +21,7 @@
 - FLASK
 - GSM
 
-Dans ce projet, nous utiliserons un **RaspBerry Pi 3 Modèle B**.
-En fait ce modèle de carte inclut une interface **WiFi** et une interface **Bluetooth**. Nous n'avons donc pas à nous soucier d'un dongle **WiFi**.
+
 
 
 <> with ❤ by **Eih3**
