@@ -2,14 +2,14 @@
 
 <a href="https://twitter.com/Eih3Prog" target="_blank"><img src="https://img.shields.io/twitter/follow/shields_io.svg?style=social&label=Follow"></a>&nbsp;&nbsp;[![license](https://img.shields.io/github/license/mashape/apistatus.svg?maxAge=2592000)]()&nbsp;&nbsp;<img src="https://img.shields.io/badge/statut-%20in%20progress-brightgreen.svg"/>&nbsp;&nbsp;<a href="https://github.com/Eih3/LYSA_Project/blob/master/README.md"><img src="https://img.shields.io/badge/version-French-orange.svg"></a>
 
-**LYSA** est une plateforme **WEB** pour l'Internet des Objets (**IOT**). Le but de ce système est de fournir une interface agréable et intuitive pour la gestion d'objets. Ces derniers sont en fait des capteurs, des actionneurs ou tout type d'objets connectés qui nécessite un suivi. **LYSA** utilise la technologie **GSM** pour garantir un accès mondial à vos objets. Ne perdez plus votre temps à chercher des solutions compliquées pour vos objets connectés - **LYSA** est fait pour vous !
+**LYSA** is a **WEB** platform for the Internet of Things (**IOT**). The purpose of this system is to provide a friendly and intuitive interface for item management. These are actually sensors, actuators or any type of connected objects that requires monitoring. **LYSA** use **GSM** technology to ensure global access to your objects. Do not waste your time searching for complicated solutions for connected objects - **LYSA** is made for you !
 
-> Plateforme simple et intuitive.  
-> Solutions sécurisée et rapide.  
-> **LYSA** est entièrement *Open Source*.               
-> Me contacter : eih3.prog@outlook.fr
+> Simple and intuitive platform.  
+> Secure and fast solutions.  
+> **LYSA** is entirely *Open Source*.               
+> Contact me : eih3.prog@outlook.fr
 
-## SOMMAIRE
+## SUMMARY
 
 - [Introduction](#introduction)
 - [Des solutions existantes](#des-solutions-existantes)
