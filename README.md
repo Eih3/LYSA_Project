@@ -1,6 +1,6 @@
 # LYSA Project
 
-<a href="#"><img src="https://img.shields.io/twitter/url/http/shields.io.svg?style=social"/></a>[![license](https://img.shields.io/github/license/mashape/apistatus.svg?maxAge=2592000)]()&nbsp;<img src="https://img.shields.io/badge/statut-%20in%20progress-blue.svg"/>
+<a href="#">[![Twitter Follow](https://img.shields.io/twitter/follow/shields_io.svg?style=social&label=Follow&maxAge=2592000)]()</a>[![license](https://img.shields.io/github/license/mashape/apistatus.svg?maxAge=2592000)]()&nbsp;&nbsp;<img src="https://img.shields.io/badge/statut-%20in%20progress-brightgreen.svg"/>
 
 **LYSA** est une plateforme **WEB** pour l'Internet des Objets (**IOT**). Le but de ce système est de fournir une interface agréable et intuitive pour la gestion d'objets. Ces derniers sont en fait des capteurs, des actionneurs ou tout type d'objets connectés qui nécessite un suivi. **LYSA** utilise la technologie **GSM** pour garantir un accès mondial à vos objets. Ne perdez plus votre temps à chercher des solutions compliquées pour vos objets connectés - **LYSA** est fait pour vous !
 
