@@ -40,4 +40,4 @@ Cette solution est installée sur un *Raspberry Pi 3*. L'utilisation d'un systè
 <!-- TODO img présentation serveur -->
 
 
-<svg aria-hidden="true" class="octicon octicon-code" height="16" version="1.1" viewBox="0 0 14 16" width="14"><path d="M9.5 3L8 4.5 11.5 8 8 11.5 9.5 13 14 8 9.5 3zm-5 0L0 8l4.5 5L6 11.5 2.5 8 6 4.5 4.5 3z"></path></svg> with ❤ by **Eih3**
+<path d="M9.5 3L8 4.5 11.5 8 8 11.5 9.5 13 14 8 9.5 3zm-5 0L0 8l4.5 5L6 11.5 2.5 8 6 4.5 4.5 3z"></path> with ❤ by **Eih3**
