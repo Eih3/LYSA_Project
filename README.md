@@ -17,7 +17,7 @@
 
 ### Introduction
 
-Le nom **LYSA** est l'acronyme de **Link Your Sensors Anywhere**.
+Le nom **LYSA** est l'acronyme de **Link Your Sensors Anywhere**. C'est en fait un des points fort de cette solution, la possibilité d'avoir un accès à vos objets, où qu'ils soient dans le monde. La seule condition à respecter est que votre objet doit être connecté au réseau **GSM**.
 
 
 ### Technologies utilisées
@@ -31,5 +31,5 @@ Le nom **LYSA** est l'acronyme de **Link Your Sensors Anywhere**.
 ### Des solutions existantes
 
 
-###
+
 <> with ❤ by **Eih3**
