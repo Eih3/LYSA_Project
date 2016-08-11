@@ -42,6 +42,6 @@ Cette solution est installée sur un *Raspberry Pi 3*. L'utilisation d'un systè
 
 ***
 La suite sur le <a href="https://github.com/Eih3/LYSA_Solution/wiki">**Wiki**</a>
-
+***
 
 <> with ❤ by **Eih3**
