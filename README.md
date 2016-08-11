@@ -4,7 +4,7 @@
 
 > Plateforme simple et intuitive.  
 > Solutions sécurisée et rapide.  
-> **LYSA** est entièrement Open Source.
+> **LYSA** est entièrement *Open Source*.
 > Technologies utilisées : Linux, Python, Javascript              
 > Pour toute question ou informations : eih3.prog@outlook.fr
 
