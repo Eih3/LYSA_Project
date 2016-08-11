@@ -1,4 +1,4 @@
-# LYSA Project
+# LYSA Solution
 
 <a href="https://twitter.com/Eih3Prog" target="_blank"><img src="https://img.shields.io/twitter/follow/shields_io.svg?style=social&label=Follow"></a>&nbsp;&nbsp;[![license](https://img.shields.io/github/license/mashape/apistatus.svg?maxAge=2592000)]()&nbsp;&nbsp;<img src="https://img.shields.io/badge/statut-%20in%20progress-brightgreen.svg"/>&nbsp;&nbsp;<a href="https://github.com/Eih3/LYSA_Project/blob/master/README.md"><img src="https://img.shields.io/badge/version-French-orange.svg"></a>
 
