@@ -4,11 +4,25 @@
 
 > Plateforme simple et intuitive.  
 > Solutions sécurisée et rapide.  
-> **LYSA** est entièrement *Open Source*.    
-> Technologies utilisées : Linux, Python, Javascript              
+> **LYSA** est entièrement *Open Source*.               
 > Me contacter : eih3.prog@outlook.fr
 
 
+## SOMMAIRE
+
+  - [Technologies utilisées](#technologies-utilisées)
+
+
+### Technologies utilisées
+
+- Raspberry Pi
+- Dongle WiFi [1]
+- Carte SD 8 Go
+- Une distribution Raspbian
+- Un ordinateur pour l'installation
+
+Dans ce projet, nous utiliserons un **RaspBerry Pi 3 Modèle B**.
+En fait ce modèle de carte inclut une interface **WiFi** et une interface **Bluetooth**. Nous n'avons donc pas à nous soucier d'un dongle **WiFi**.
 
 
 <> with ❤ by **Eih3**
