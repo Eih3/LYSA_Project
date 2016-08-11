@@ -29,4 +29,4 @@ Cette solution est installée sur un *Raspberry Pi 3*. L'utilisation d'un systè
 <p align="center">La suite sur le <a href="https://github.com/Eih3/LYSA_Solution/wiki">Wiki</a></p>
 ***
 
-<> with ❤ by **Eih3**
+<> avec ❤ par **Eih3**
